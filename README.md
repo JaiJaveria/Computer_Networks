@@ -6,7 +6,7 @@ These are the assignments that I did as part of the COL334: Computer Networks Co
 - This Project involved using tools like traceroute, ping, wireshark to understand how Internet Architecture is laid out and understand its intricacies.
 
 ## Assignment 2: Packet Trace Analysis
-- This Project involved inspecting network traffic using tools like Wireshark and the Chrome developer tools. I had to analyze the packet traces of loading website like [CSE, IITD], [IndianExpress] and [NYTimes].
+- This Project involved inspecting network traffic using tools like Wireshark and the Chrome developer tools. I had to analyze the packet traces when loading websites like [CSE, IITD], [IndianExpress] and [NYTimes] and watching streaming services like Youtube, MS Teams and Facebook.
 
 ## Assignment 3: File Download Manager
 - In this, I had to write a program that could download a file from servers under different settings.
